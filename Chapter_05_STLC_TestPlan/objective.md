@@ -1,0 +1,13 @@
+# Fetch the JIRA ID and Create a Test Plan Generator
+# [VWO-48](https://durgasworkspace-24343890.atlassian.net/browse/KAN-3) -> Fetch Test Plan
+
+You please read the file of B.L.A.S.T.md again and my objective again, and create a lightweight React application which will take:
+- the Jira configuration
+- Jira email ID
+- Jira token
+- my Jira base URL
+- GROQ connection API details in the settings and take the JIRA ID and create the TestPlan automatically. 
+You will be able to create a test plan based on the by fetching the vwo48 automatically. @Chapter_05_STLC_TestPlan\Test_Plan.md  
+
+GROQ - openai/gpt-oss-120b (FREE)
+fETCH JIRA -> emAIL, token, JIRA - https://durgasworkspace-24343890.atlassian.net/browse/KAN-3
